@@ -1,20 +1,20 @@
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="section-{{ section.id }}-padding">
-    {{ section.settings.anh }}
+    {{ section.settings.custom_liquid }}
   </div>
 </div>
 
 {% schema %}
   {
-    "name": "t:sections.anh.name",
+    "name": "t:sections.custom-liquid.name",
     "tag": "section",
     "class": "section",
     "settings": [
       {
         "type": "liquid",
-        "id": "anh",
-        "label": "t:sections.anh.settings.anh.label",
-        "info": "t:sections.anh.settings.anh.info"
+        "id": "custom_liquid",
+        "label": "t:sections.custom-liquid.settings.custom_liquid.label",
+        "info": "t:sections.custom-liquid.settings.custom_liquid.info"
       },
       {
         "type": "select",
@@ -60,7 +60,7 @@
     ],
     "presets": [
       {
-        "name": "t:sections.anh.presets.name"
+        "name": "t:sections.custom-anh.presets.name"
       }
     ]
   }
