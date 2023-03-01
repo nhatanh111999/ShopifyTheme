@@ -1559,13 +1559,13 @@
     ]
   },
   {
-    "name": "t:settings_schema.cardss.name",
+    "name": "Custom theme",
     "settings": [
       {
         "type": "checkbox",
         "id": "custome_theme_type",
         "default": true,
-        "label": "t:settings_schema.cardss.settings.style.label"
+        "label": "Custom theme checkbox"
       }
     ]
   }

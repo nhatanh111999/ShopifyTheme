@@ -3248,22 +3248,6 @@
       "presets": {
         "name": "Collapsible content"
       }
-    },
-    "custome-theme": {
-      "name": "Custome Theme",
-      "settings": {
-        "custome_theme_type": {
-          "label": "Custome Theme Checkbox"
-        }
-      }
-    },
-    "cardss": {
-      "name": "Product cards ssss",
-      "settings": {
-        "style": {
-          "label": "Style"
-        }
-      }
     }
   }
 }
