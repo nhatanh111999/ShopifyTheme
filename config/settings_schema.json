@@ -1557,5 +1557,16 @@
         "info": "t:settings_schema.cart.settings.cart_drawer.collection.info"
       }
     ]
+  },
+  {
+    "name": "t:settings_schema.nhatanh.name",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "checkbox_nhatanh",
+        "default": true,
+        "label": "t:settings_schema.nhatanh.settings.nhatanh_type.label"
+      }
+    ]
   }
 ]
