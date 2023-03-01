@@ -1563,9 +1563,9 @@
     "settings": [
       {
         "type": "checkbox",
-        "id": "custome-theme",
+        "id": "custome_theme_type",
         "default": true,
-        "label": "t:settings_schema.custome-theme.settings.custome-theme-type.label"
+        "label": "t:settings_schema.custome-theme.settings.custome_theme_type.label"
       }
     ]
   }

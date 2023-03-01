@@ -3252,7 +3252,7 @@
     "custome-theme": {
       "name": "Custome Theme",
       "settings": {
-        "custome-theme-type": {
+        "custome_theme_type": {
           "label": "Custome Theme Checkbox"
         }
       }
