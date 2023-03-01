@@ -1559,13 +1559,13 @@
     ]
   },
   {
-    "name": "t:settings_schema.cart.name",
+    "name": "t:settings_schema.custome-theme.name",
     "settings": [
       {
         "type": "checkbox",
-        "id": "checkbox_nhatanh",
+        "id": "custome-theme",
         "default": true,
-        "label": "t:settings_schema.micheal.settings.micheal_type.label"
+        "label": "t:settings_schema.custome-theme.settings.custome-theme-type.label"
       }
     ]
   }
