@@ -3257,11 +3257,11 @@
         }
       }
     },
-    "cart1": {
-      "name": "Cart 1",
+    "cardss": {
+      "name": "Product cards ssss",
       "settings": {
-        "cart_type": {
-          "label": "Cart type 1"
+        "style": {
+          "label": "Style"
         }
       }
     }
