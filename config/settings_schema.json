@@ -1559,13 +1559,13 @@
     ]
   },
   {
-    "name": "t:settings_schema.anh.name",
+    "name": "t:settings_schema.nhatanh.name",
     "settings": [
       {
         "type": "checkbox",
-        "id": "checkbox_anh",
+        "id": "checkbox_nhatanh",
         "default": true,
-        "label": "t:settings_schema.anh.settings.anh_type.label"
+        "label": "t:settings_schema.nhatanh.settings.nhatanh_type.label"
       }
     ]
   }
