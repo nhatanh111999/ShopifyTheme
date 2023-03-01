@@ -3256,6 +3256,14 @@
           "label": "Custome Theme Checkbox"
         }
       }
+    },
+    "cart1": {
+      "name": "Cart 1",
+      "settings": {
+        "cart_type": {
+          "label": "Cart type 1"
+        }
+      }
     }
   }
 }
