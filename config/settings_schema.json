@@ -1559,7 +1559,7 @@
     ]
   },
   {
-    "name": "t:settings_schema.micheal.name",
+    "name": "t:settings_schema.cart.name",
     "settings": [
       {
         "type": "checkbox",
