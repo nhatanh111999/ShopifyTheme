@@ -1559,13 +1559,13 @@
     ]
   },
   {
-    "name": "t:settings_schema.custome-theme.name",
+    "name": "t:settings_schema.cart1.name",
     "settings": [
       {
         "type": "checkbox",
         "id": "custome_theme_type",
         "default": true,
-        "label": "t:settings_schema.custome-theme.settings.custome_theme_type.label"
+        "label": "t:settings_schema.cart1.settings.cart_type.label"
       }
     ]
   }
