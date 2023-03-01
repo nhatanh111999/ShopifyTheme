@@ -3248,6 +3248,14 @@
       "presets": {
         "name": "Collapsible content"
       }
+    },
+    "nhatanh": {
+      "name": "Nhat Anh",
+      "settings": {
+        "nhatanh_type": {
+          "label": "Nhat Anh type"
+        }
+      }
     }
   }
 }
